@@ -11,6 +11,15 @@ A list of tools to search accounts by username with pros and cons
 #### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
 * username enumeration on around 200 various websites
 
+#### [Snoop](https://github.com/snooppr/snoop)
+* [sherlock](https://github.com/sherlock-project/sherlock) fork
+* 67 sites in demo version, 1182 sites in full version
+* country filtering, html and csv reports
+
+#### [Userrecon](https://github.com/wishihab/userrecon)
+* find usernames across over 75 social networks 
+* original repository is unavailable
+
 ### Sites
 
 Websites to search accounts from your browser. Usually there are advertising and logging of requests.
@@ -28,11 +37,21 @@ The main goal of branding tools is to search for the availability of usernames o
 These tools are used by marketers to brand securing and promotion.
 One of the features of such tools is a domain name search similar to a search by username.
 
-#### [Namechk](https://namechk.com/)
-* 96 sites and 36 domain names
+#### [Namecheckup](http://namecheckup.com/)
+* check social media username availability over 270+ social networks and sites and check 45 TLDs
+
+#### [InstantUsername](https://instantusername.com/)
+* check username availability for more than 100 social media sites
+* [open source](https://github.com/instant-username-search)
 
 #### [Checkusernames](https://checkusernames.com/)
 * check the use of your brand or username on 160 Social Networks
 
 #### [Knowem](https://knowem.com/) (updated Checkusernames)
 * search over 500 popular social networks, over 150 domain names
+
+#### [Namechk](https://namechk.com/)
+* find an available username over 96 sites and 36 domain names
+
+#### [Namecheckr](https://www.namecheckr.com/)
+* check domain & social username availability across 38 networks and 17 TLDs
