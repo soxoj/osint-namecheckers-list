@@ -20,6 +20,18 @@ A list of tools to search accounts by username with pros and cons
 * find usernames across over 75 social networks 
 * original repository is unavailable
 
+#### [Socialscan](https://github.com/iojw/socialscan)
+* accurate and fast checks for **email** and username usage on 12 platforms
+* checks if account registered through api, not a direct userpage link
+
+#### [sherlock-go](https://github.com/mesuutt/sherlock)
+* faster and minimal implementation of sherlock written in Go
+* no longer maintained
+
+#### [Investigo](https://github.com/tdh8316/Investigo)
+* can take screenshots with headless chromium
+* uses sherlock database
+
 ### Sites
 
 Websites to search accounts from your browser. Usually there are advertising and logging of requests.
@@ -55,3 +67,8 @@ One of the features of such tools is a domain name search similar to a search by
 
 #### [Namecheckr](https://www.namecheckr.com/)
 * check domain & social username availability across 38 networks and 17 TLDs
+
+#### [Checkerapi](https://app.swaggerhub.com/apis/checker/api)
+* check 6 services for username availability
+* has [open source](https://github.com/checker/api) implementation
+
