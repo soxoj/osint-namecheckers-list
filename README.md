@@ -10,6 +10,7 @@ A list of tools to search accounts by username with pros and cons.
 * batch search 👍
 * tor & proxy support 👍
 * alexa top ranking 👍
+* adding custom sites & rules
 * csv reports
 * false positives
 
@@ -21,6 +22,7 @@ A list of tools to search accounts by username with pros and cons.
 
 #### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
 * username enumeration on around 200 various websites
+* adding custom sites & rules
 
 #### [Userrecon](https://github.com/wishihab/userrecon)
 * finds usernames across over 75 social networks 
