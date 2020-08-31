@@ -20,6 +20,15 @@ A list of tools to search accounts by username with pros and cons.
 * country ranking & filtering 👍
 * html and csv reports
 
+#### [Maigret](https://github.com/soxoj/maigret)
+* sherlock fork, all its pros and cons so
+* 400+ sites 👍
+* profile pages parsing and extracting personal info, links to other profiles, etc. 👍
+* recursive search by new usernames found 👍
+* searching by countries and categories by tags 👍
+* very few false positives 👍
+* censorship and captcha detection
+
 #### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
 * username enumeration on around 200 various websites
 * adding custom sites & rules
