@@ -49,6 +49,11 @@ A list of tools to search accounts by username with pros and cons.
 * can take screenshots with headless chromium 👍
 * uses sherlock database
 
+#### [recon-ng](https://github.com/lanmaster53/recon-ng/)
+* have a profiler module using WhatsMyName database
+
+#### 
+
 ### Sites
 
 Websites to search accounts from your browser. Usually there are advertising and logging of requests.
