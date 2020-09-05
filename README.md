@@ -72,6 +72,11 @@ The main goal of branding tools is to search for the availability of usernames o
 These tools are used by marketers to brand securing and promotion.
 One of the features of such tools is a domain name search similar to a search by username.
 
+#### [Knowem](https://knowem.com/) (updated Checkusernames)
+* searches over 550 popular social networks, over 150 domain names
+* 15 categories of social networks
+* trademarks checks
+
 #### [Namecheckup](http://namecheckup.com/)
 * checks social media username availability over 270+ social networks and sites and check 45 TLDs
 
@@ -81,9 +86,6 @@ One of the features of such tools is a domain name search similar to a search by
 
 #### [Checkusernames](https://checkusernames.com/)
 * checks the use of your brand or username on 160 Social Networks
-
-#### [Knowem](https://knowem.com/) (updated Checkusernames)
-* searches over 500 popular social networks, over 150 domain names
 
 #### [Namechk](https://namechk.com/)
 * finds an available username over 96 sites and 36 domain names
