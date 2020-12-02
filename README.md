@@ -14,15 +14,9 @@ A list of tools to search accounts by username with pros and cons.
 * csv reports
 * false positives
 
-#### [Snoop](https://github.com/snooppr/snoop)
-* sherlock fork, all its pros and cons so
-* 67 sites in demo version, 1182 sites in full version 👍
-* country ranking & filtering 👍
-* html and csv reports
-
 #### [Maigret](https://github.com/soxoj/maigret)
 * sherlock fork, all its pros and cons so
-* 400+ sites 👍
+* 1300+ sites 👍
 * profile pages parsing and extracting personal info, links to other profiles, etc. 👍
 * recursive search by new usernames found 👍
 * searching by countries and categories by tags 👍
@@ -30,12 +24,18 @@ A list of tools to search accounts by username with pros and cons.
 * censorship and captcha detection
 
 #### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
-* username enumeration on around 200 various websites
+* username enumeration on around 250 various websites
 * adding custom sites & rules
 
 #### [Userrecon](https://github.com/wishihab/userrecon)
 * finds usernames across over 75 social networks 
 * original repository is unavailable
+
+#### [Snoop](https://github.com/snooppr/snoop)
+* sherlock fork, all its pros and cons so
+* 72 sites in demo version, 1300+ sites in full paid version only
+* country ranking & filtering 👍
+* html and csv reports
 
 #### [Socialscan](https://github.com/iojw/socialscan)
 * checks for **email** and username usage on 12 platforms 
@@ -102,3 +102,8 @@ One of the features of such tools is a domain name search similar to a search by
 * checks 6 services for username availability
 * [open source](https://github.com/checker/api) 👍
 
+
+## Useful links
+
+* [OSINT Handbook September 2020 (see "Username Check")](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+* [Nixintel's OSINT Resource List (see "Usernames & People Searches"](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
