@@ -37,6 +37,10 @@ A list of tools to search accounts by username with pros and cons.
 * country ranking & filtering 👍
 * html and csv reports
 
+#### [Search4](https://github.com/0xknown/Search4)
+* 35 sites in database
+* small and fast
+
 #### [Socialscan](https://github.com/iojw/socialscan)
 * checks for **email** and username usage on 12 platforms 
 * uses api, not a direct userpage link 👍
