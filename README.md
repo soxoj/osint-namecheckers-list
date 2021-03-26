@@ -16,7 +16,7 @@ A list of tools to search accounts by username with pros and cons.
 
 #### [Maigret](https://github.com/soxoj/maigret)
 * sherlock fork, all its pros and cons so
-* 1300+ sites 👍
+* 2300 sites 👍
 * profile pages parsing and extracting personal info, links to other profiles, etc. 👍
 * recursive search by new usernames found 👍
 * searching by countries and categories by tags 👍
@@ -33,7 +33,7 @@ A list of tools to search accounts by username with pros and cons.
 
 #### [Snoop](https://github.com/snooppr/snoop)
 * sherlock fork, all its pros and cons so
-* 72 sites in demo version, 1300+ sites in full paid version only
+* 100 sites in demo version, around 1600 sites in full paid version
 * country ranking & filtering 👍
 * html and csv reports
 
@@ -55,6 +55,11 @@ A list of tools to search accounts by username with pros and cons.
 
 #### [recon-ng](https://github.com/lanmaster53/recon-ng/)
 * have a profiler module using WhatsMyName database
+
+#### [SocialPath](https://github.com/woj-ciech/SocialPath)
+* track users across 10 popular social media platforms
+* extract details info from 4 platforms
+* web interface
 
 #### 
 
@@ -111,3 +116,4 @@ One of the features of such tools is a domain name search similar to a search by
 
 * [OSINT Handbook September 2020 (see "Username Check")](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 * [Nixintel's OSINT Resource List (see "Usernames & People Searches"](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
+* [What’s wrong with namecheckers?](https://soxoj.medium.com/whats-wrong-with-namecheckers-981e5cba600e)
