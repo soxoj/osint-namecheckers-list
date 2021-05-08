@@ -101,6 +101,9 @@ One of the features of such tools is a domain name search similar to a search by
 #### [Checkusernames](https://checkusernames.com/)
 * checks the use of your brand or username on 160 Social Networks
 
+#### [CHECKUSER.org](https://checkuser.org)
+* checks popular domains and 52 social media sites
+
 #### [Namechk](https://namechk.com/)
 * finds an available username over 96 sites and 36 domain names
 
