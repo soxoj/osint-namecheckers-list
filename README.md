@@ -33,15 +33,15 @@ A list of tools to search accounts by username with pros and cons.
 * username enumeration on around 250 various websites
 * adding custom sites & rules
 
+#### [Snoop](https://github.com/snooppr/snoop)
+* sherlock fork, all its pros and cons so
+* 145 sites in demo version, around 2200+ sites in full paid version
+* country ranking & filtering 👍
+* html and csv reports
+
 #### [Userrecon](https://github.com/wishihab/userrecon)
 * finds usernames across over 75 social networks 
 * original repository is unavailable
-
-#### [Snoop](https://github.com/snooppr/snoop)
-* sherlock fork, all its pros and cons so
-* 100 sites in demo version, around 1600 sites in full paid version
-* country ranking & filtering 👍
-* html and csv reports
 
 #### [NicknameFinder](https://github.com/restanse/NicknameFinder)
 * 45 sites in database
@@ -89,6 +89,9 @@ Websites to search accounts from your browser. Usually there are advertising and
 #### [Usersearch](https://usersearch.org/)
 * 120 popular websites, 100+ generic forums , 6 dating sites and crypto forums
 
+#### [iDCrawl](https://www.idcrawl.com/username)
+* 12 sites
+
 #### [suIP.biz](https://suip.biz/ru/?act=sherlock)
 * yet another sherlock online
 
@@ -116,7 +119,7 @@ One of the features of such tools is a domain name search similar to a search by
 #### [Checkusernames](https://checkusernames.com/)
 * checks the use of your brand or username on 160 Social Networks
 
-#### [CHECKUSER.org](https://checkuser.org)
+#### ~~[CHECKUSER.org](https://checkuser.org)~~
 * checks popular domains and 52 social media sites
 
 #### [Namechk](https://namechk.com/)
@@ -129,6 +132,14 @@ One of the features of such tools is a domain name search similar to a search by
 * checks 6 services for username availability
 * [open source](https://github.com/checker/api) 👍
 
+
+## Toolkits
+
+#### [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername)
+
+#### [Aware-online](https://www.aware-online.com/en/osint-tools/username-search-tool/)
+
+#### [Lullar](https://com.lullar.com/)
 
 ## Useful links
 
