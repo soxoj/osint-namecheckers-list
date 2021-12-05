@@ -23,6 +23,12 @@ A list of tools to search accounts by username with pros and cons.
 * very few false positives 👍
 * censorship and captcha detection
 
+#### [social-analyzer](https://github.com/qeeqbox/social-analyzer)
+* 1000+ sites 👍
+* web interface 👍
+* multilayers detections (OCR, normal, advanced & special) 👍
+* metadata extraction
+
 #### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
 * username enumeration on around 250 various websites
 * adding custom sites & rules
@@ -36,6 +42,15 @@ A list of tools to search accounts by username with pros and cons.
 * 100 sites in demo version, around 1600 sites in full paid version
 * country ranking & filtering 👍
 * html and csv reports
+
+#### [NicknameFinder](https://github.com/restanse/NicknameFinder)
+* 45 sites in database
+
+#### [Gideon](https://github.com/YouVBeenHacked/gideon)
+* 44 sites in database
+
+#### [Arina-OSINT](https://github.com/AlexC-ux/Arina-OSINT)
+* 42 sites in database
 
 #### [Search4](https://github.com/0xknown/Search4)
 * 35 sites in database
