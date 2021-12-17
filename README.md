@@ -52,6 +52,9 @@ A list of tools to search accounts by username with pros and cons.
 #### [Arina-OSINT](https://github.com/AlexC-ux/Arina-OSINT)
 * 42 sites in database
 
+#### [netizenship](https://github.com/rahulrajpl/netizenship)
+* 38 sites in database
+
 #### [Search4](https://github.com/0xknown/Search4)
 * 35 sites in database
 * small and fast
