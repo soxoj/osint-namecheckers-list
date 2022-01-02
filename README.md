@@ -29,6 +29,10 @@ A list of tools to search accounts by username with pros and cons.
 * multilayers detections (OCR, normal, advanced & special) 👍
 * metadata extraction
 
+#### [nexfil](https://github.com/thewhiteh4t/nexfil)
+* 350 sites
+* fast, lookup can complete under 20 seconds
+
 #### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
 * username enumeration on around 250 various websites
 * adding custom sites & rules
