@@ -90,11 +90,16 @@ A list of tools to search accounts by username with pros and cons.
 Websites to search accounts from your browser. Usually there are advertising and logging of requests.
 
 #### [WhatsMyName](https://whatsmyname.app/)
+* username enumeration on around 250 various websites
 * web-gui for searching for [WhatsMyName](https://github.com/webbreacher/whatsmyname) data
 * rich filtering by category
 
 #### [Usersearch](https://usersearch.org/)
 * 120 popular websites, 100+ generic forums , 6 dating sites and crypto forums
+
+#### [analyzeid username checker](https://analyzeid.com/username/)
+* more than 80 social sites
+* gather information on the taken username and get a summary of who the person is 👍
 
 #### [iDCrawl](https://www.idcrawl.com/username)
 * 12 sites
