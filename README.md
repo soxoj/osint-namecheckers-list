@@ -83,7 +83,11 @@ A list of tools to search accounts by username with pros and cons.
 * extract details info from 4 platforms
 * web interface
 
-#### 
+### APIs
+
+#### [Social Scanner](https://rapidapi.com/hailbytes-hailbytes-default/api/social-scanner/)
+* 996 social networks with links to each profile in JSON
+* implementation of social-analyzer
 
 ### Sites
 
