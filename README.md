@@ -2,6 +2,14 @@
 
 A list of tools to search accounts by username with pros and cons.
 
+## Table of Contents
+- [Scripts](#scripts)
+- [APIs](#apis)
+- [OSINT Online Tools](#osint-online-tools)
+- [Branding Tools](#branding-tools)
+- [Toolkits](#toolkits)
+- [Useful Links](#useful-links)
+
 ### Scripts
 
 #### [Sherlock](https://github.com/sherlock-project/sherlock)
@@ -112,7 +120,7 @@ A list of tools to search accounts by username with pros and cons.
 * 996 social networks with links to each profile in JSON
 * implementation of social-analyzer
 
-### Sites
+### OSINT Online Tools
 
 Websites to search accounts from your browser. Usually there are advertising and logging of requests.
 
@@ -158,7 +166,7 @@ One of the features of such tools is a domain name search similar to a search by
 #### [Checkusernames](https://checkusernames.com/)
 * checks the use of your brand or username on 160 Social Networks
 
-#### ~~[CHECKUSER.org](https://checkuser.org)~~
+#### [CHECKUSER.org](https://checkuser.org)
 * checks popular domains and 52 social media sites
 
 #### [Namechk](https://namechk.com/)
@@ -174,11 +182,11 @@ One of the features of such tools is a domain name search similar to a search by
 
 ## Toolkits
 
-#### [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername)
+- [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername)
 
-#### [Aware-online](https://www.aware-online.com/en/osint-tools/username-search-tool/)
+- [Aware-online](https://www.aware-online.com/en/osint-tools/username-search-tool/)
 
-#### [Lullar](https://com.lullar.com/)
+- [Lullar](https://com.lullar.com/)
 
 ## Useful links
 
