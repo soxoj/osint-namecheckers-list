@@ -83,6 +83,13 @@ A list of tools to search accounts by username with pros and cons.
 * extract details info from 4 platforms
 * web interface
 
+#### [Alfred OSINT](https://github.com/Alfredredbird/alfred)
+* hunts down social media accounts.
+* 261 sites in database
+* has a WebUI
+* does phone number OSINT
+* has some false positives
+
 ### APIs
 
 #### [Social Scanner](https://rapidapi.com/hailbytes-hailbytes-default/api/social-scanner/)
