@@ -5,7 +5,7 @@ A list of tools to search accounts by username with pros and cons.
 ### Scripts
 
 #### [Sherlock](https://github.com/sherlock-project/sherlock)
-* hunts down social media accounts by username across around 300 social networks
+* hunts down social media accounts by username across around 400 social networks
 * has web-cli deployments 👍
 * batch search 👍
 * tor & proxy support 👍
@@ -16,7 +16,7 @@ A list of tools to search accounts by username with pros and cons.
 
 #### [Maigret](https://github.com/soxoj/maigret)
 * sherlock fork, all its pros and cons so
-* 2300 sites 👍
+* 3100+ sites 👍
 * profile pages parsing and extracting personal info, links to other profiles, etc. 👍
 * recursive search by new usernames found 👍
 * searching by countries and categories by tags 👍
@@ -29,23 +29,39 @@ A list of tools to search accounts by username with pros and cons.
 * multilayers detections (OCR, normal, advanced & special) 👍
 * metadata extraction
 
+#### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
+* username enumeration on around 600 various websites
+* adding custom sites & rules
+
+#### [DetectDee](https://github.com/piaolin/DetectDee)
+* hunt down social media accounts by username, email or phone across social networks
+* 372 sites
+* screenshots 👍
+
 #### [nexfil](https://github.com/thewhiteh4t/nexfil)
 * 350 sites
 * fast, lookup can complete under 20 seconds
 
-#### [WhatsMyName](https://github.com/webbreacher/whatsmyname)
-* username enumeration on around 250 various websites
-* adding custom sites & rules
-
 #### [Snoop](https://github.com/snooppr/snoop)
 * sherlock fork, all its pros and cons so
-* 145 sites in demo version, around 2200+ sites in full paid version
+* 271 sites in demo version, around 4200+ sites in full paid version
 * country ranking & filtering 👍
 * html and csv reports
+* difficult to install and use 🚫
+
+#### [thorndyke](https://github.com/rly0nheart/thorndyke)
+* Lightweight username enumeration tool
+* checks the availability of a specified username on over 200 websites
+* no longer supported 🚫
+
+#### [sagemode](https://github.com/senran101604/sagemode)
+* simple and effective OSINT username search tool
+* around 150 sites
 
 #### [Userrecon](https://github.com/wishihab/userrecon)
 * finds usernames across over 75 social networks 
 * original repository is unavailable
+* no longer supported 🚫
 
 #### [NicknameFinder](https://github.com/restanse/NicknameFinder)
 * 45 sites in database
@@ -83,12 +99,12 @@ A list of tools to search accounts by username with pros and cons.
 * extract details info from 4 platforms
 * web interface
 
-#### [Alfred OSINT](https://github.com/Alfredredbird/alfred)
-* hunts down social media accounts.
-* 261 sites in database
+#### [tookie-osint](https://github.com/Alfredredbird/tookie-osint)
+* hunts down social media accounts
+* 261 sites in the database
 * has a WebUI
-* does phone number OSINT
-* has some false positives
+* has some false positives (≈20%)
+* difficult to install and use 🚫
 
 ### APIs
 
