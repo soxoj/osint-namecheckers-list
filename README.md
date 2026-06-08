@@ -115,6 +115,8 @@ Websites to search from a browser. Many show ads and may log requests.
 
 - [WhatsMyName App](https://whatsmynameapp.us/tools/whatsmyname-app) — 732 sites; full web UI with guides, tutorials, step-by-step walkthroughs, and CSV export. Browser-based, no login required.
 
+- [TikTok Stalker](https://tiktok.einzzcookie.org/) — Monitor liking activity; see user details; see video details; download videos & sound without watermark; obtain timestamps of videos; timestamps of user creations; last nickname changes; language settings of users; reposts of users, comments of users on their reposts and much more.
+
 
 ## Branding
 
