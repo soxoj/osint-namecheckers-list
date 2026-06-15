@@ -39,8 +39,8 @@ A curated list of tools and sites for **username search**, **account discovery**
 - [Naminter](https://github.com/3xp0rt/Naminter) — Async username enumeration using the WhatsMyName dataset.
   - 730+ sites 👍; TLS-level browser impersonation via curl_cffi (bypasses Cloudflare and bot detection that block tools using plain requests/aiohttp) 👍; category filtering 👍; PDF/CSV/JSON/HTML export 👍; `pip install naminter`; also Docker.
 
-- [Linkook](https://github.com/JackJuly/linkook) — Recursive linked-account discovery with email/breach checks and Neo4j export.
-  - 64 sites; **recursive linked-account search** — extracts connected profiles from each found page (e.g., Linktree → Instagram/SoundCloud, Dev.to → GitHub), so it can discover accounts even when the target uses different usernames across platforms 👍; email discovery + breach check via HudsonRock's Cybercrime Intelligence DB or Have I Been Pwned API 👍; Neo4j-friendly JSON export for graph visualization 👍; default scan covers only 10 "connected" sites, use `--scan-all` for full coverage; `pipx install linkook`.
+- [Linkook](https://github.com/JackJuly/linkook) — Username search with email/breach checks and Neo4j graph export.
+  - 64 sites; **email discovery + breach check** via HudsonRock's Cybercrime Intelligence DB or Have I Been Pwned API 👍; **Neo4j-friendly JSON export** for graph visualization of accounts/usernames/emails 👍; extracts linked accounts from profile pages (similar to Maigret + socid-extractor, but on a smaller site set); default scan covers only 10 "connected" sites, use `--scan-all` for full coverage; `pipx install linkook`.
 
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) — Large-scale username search with layered detection.
   - 999 sites 👍; web UI 👍; multilayer detection (OCR, normal, advanced, special) 👍; metadata extraction; `pip install social-analyzer`; no granular confidence scoring — `maybe` status produces false positives 🚫.
@@ -50,6 +50,9 @@ A curated list of tools and sites for **username search**, **account discovery**
 
 - [DetectDee](https://github.com/piaolin/DetectDee) — Search by username, email, or phone; written in Go.
   - 372 sites; screenshot capture 👍; WAF evasion; ChatGPT integration for result tagging; Google search integration; pre-compiled binaries; no longer maintained (last commit Jul 2023) 🚫.
+
+- [vesper](https://github.com/krishpranav/vesper) — Rust-based async username scanner using a Sherlock-derived database.
+  - 299 sites; Rust + Tokio for fast async scanning 👍; confidence scoring (CONFIRMED/LIKELY) 👍; headless Chrome screenshot capture 👍; Tor proxy support; JSON report export; built-in site-validation test mode; `cargo build --release`.
 
 - [tookie-osint](https://github.com/Alfredredbird/tookie-osint) — Username discovery with a web UI.
   - 261 sites; headless mode; CSV export; multi-OS installer scripts; ~20% false positives 🚫.
