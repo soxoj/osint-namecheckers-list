@@ -108,6 +108,8 @@ Websites to search from a browser. Many show ads and may log requests.
 
 - [WhatsMyName](https://whatsmyname.app/) — ~250 sites; web UI for the [WhatsMyName](https://github.com/webbreacher/whatsmyname) dataset; rich category filters.
 
+- [Lullar](https://com.lullar.com/) — Free email/name/username people search across 175+ platforms; no sign-up, since 2009.
+
 - [Usersearch](https://usersearch.org/) — ~120 popular sites, 100+ generic forums, 6 dating sites, crypto forums.
 
 - [analyzeid username checker](https://analyzeid.com/username/) — 80+ social sites; summarizes what public signals suggest about a taken username 👍.
@@ -144,8 +146,6 @@ These tools focus on **username availability** and brand/domain squatting checks
 - [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername) — Email/username-oriented OSINT toolkit.
 
 - [Aware-online username search](https://www.aware-online.com/en/osint-tools/username-search-tool/) — Browser-based username search tool.
-
-- [Lullar](https://com.lullar.com/) — Email/username lookup (com.lullar.com).
 
 ## Useful links
 
