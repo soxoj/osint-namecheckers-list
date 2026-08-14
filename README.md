@@ -119,6 +119,7 @@ Websites to search from a browser. Many show ads and may log requests.
 - [suIP.biz](https://suip.biz/ru/?act=sherlock) — Online Sherlock-style checker.
 
 - [WhatsMyName App](https://whatsmynameapp.us/tools/whatsmyname-app) — 732 sites; full web UI with guides, tutorials, step-by-step walkthroughs, and CSV export. Browser-based, no login required.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 
 ## Branding
