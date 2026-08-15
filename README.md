@@ -63,6 +63,9 @@ A curated list of tools and sites for **username search**, **account discovery**
 - [sagemode](https://github.com/senran101604/sagemode) — Simple username search.
   - 146 sites; real-time CLI output; known false positives on some platforms 🚫; no longer maintained (last commit Dec 2023) 🚫.
 
+- [username_searcher](https://github.com/qwerasdzx-123/username_searcher) — Browser-based username checker with a local Node.js proxy; bilingual Chinese/English UI.
+  - 104 sites (999 in the bundled database, but only the "common" tier is queried); local web UI with live progress 👍; username permutation generator 👍; JSON/CSV export 👍; validation rules for only 3 sites, the rest rely on status/title/length heuristics — many results land in "manual verify" 🚫; upstream proxy hardcoded to a LAN address 🚫; `node js/proxy-server.js` + `node js/simple-server.js`.
+
 - [Arina-OSINT](https://github.com/AlexC-ux/Arina-OSINT) — Username search written in C#.
   - 76 sites; requires .NET Core 3.1; no longer maintained (last commit Mar 2022) 🚫.
 
