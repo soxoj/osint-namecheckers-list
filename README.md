@@ -138,8 +138,6 @@ These tools focus on **username availability** and brand/domain squatting checks
 
 - [Namechk](https://namechk.com/) — Availability across 96 sites and 36 TLDs.
 
-- [Namecheckr](https://www.namecheckr.com/) — Domains and social handles across 38 networks and 17 TLDs.
-
 - [Checkerapi](https://app.swaggerhub.com/apis/checker/api) — Six services; [open source](https://github.com/checker/api) 👍.
 
 - [360username](https://360username.com/) — AI-powered Domain name and sicial media username generator and checker.
