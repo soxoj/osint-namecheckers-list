@@ -107,7 +107,7 @@ A curated list of tools and sites for **username search**, **account discovery**
 
 ## OSINT online tools
 
-Websites to search from a browser. Many show ads and may log requests.
+Tools you can use without installing anything — web and chat. Many show ads and may log requests.
 
 - [WhatsMyName](https://whatsmyname.app/) — ~250 sites; web UI for the [WhatsMyName](https://github.com/webbreacher/whatsmyname) dataset; rich category filters.
 
@@ -122,6 +122,8 @@ Websites to search from a browser. Many show ads and may log requests.
 - [suIP.biz](https://suip.biz/ru/?act=sherlock) — Online Sherlock-style checker.
 
 - [WhatsMyName App](https://whatsmynameapp.us/tools/whatsmyname-app) — 732 sites; full web UI with guides, tutorials, step-by-step walkthroughs, and CSV export. Browser-based, no login required.
+
+- [Maigret Telegram bot](https://maigret.app/nc) — 3100+ sites from a chat, nothing to install; community bot with extra features; runs the [Maigret](https://github.com/soxoj/maigret) engine.
 
 
 ## Branding
