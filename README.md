@@ -140,6 +140,8 @@ These tools focus on **username availability** and brand/domain squatting checks
 
 - [Namechk](https://namechk.com/) — Availability across 96 sites and 36 TLDs.
 
+- [Namevine](https://namevine.com/) — Search one name across domains and social handles; free, optional account.
+
 - [Checkerapi](https://app.swaggerhub.com/apis/checker/api) — Six services; [open source](https://github.com/checker/api) 👍.
 
 - [360username](https://360username.com/) — AI-powered Domain name and sicial media username generator and checker.
@@ -149,6 +151,8 @@ These tools focus on **username availability** and brand/domain squatting checks
 - [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername) — Email/username-oriented OSINT toolkit.
 
 - [Aware-online username search](https://www.aware-online.com/en/osint-tools/username-search-tool/) — Browser-based username search tool.
+
+- [Intelligence X username tools](https://intelx.io/tools?tab=username) — Username tab of the IntelX tool directory; links out to third-party username search services.
 
 ## Useful links
 
