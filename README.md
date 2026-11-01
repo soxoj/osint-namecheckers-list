@@ -105,6 +105,8 @@ A curated list of tools and sites for **username search**, **account discovery**
 - [Gideon](https://github.com/YouVBeenHacked/gideon) — OSINT tool for phone numbers, car plates, nicknames, and torrents by IP.
   - Russian-focused; username search is a secondary feature; no longer maintained (last commit Nov 2020) 🚫.
 
+- [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Username discovery with overlapping source modules reconciled, enriched profile results and evidence graphs; also supports email and phone lookups.
+
 ## OSINT online tools
 
 Tools you can use without installing anything — web and chat. Many show ads and may log requests.
