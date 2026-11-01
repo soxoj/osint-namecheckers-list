@@ -127,6 +127,8 @@ Tools you can use without installing anything — web and chat. Many show ads an
 
 - [Maigret Telegram bot](https://maigret.app/nc) — 5900 sites from a chat, nothing to install; community bot with extra features; runs the [Maigret](https://github.com/soxoj/maigret) engine.
 
+- [Opsis](https://useopsis.com/) — Username and email search with 1,000+ modules, showing the name, photo and bio each site exposes, with the source for every result. Free platform lookup tools, full search from $14.99/mo.
+
 
 ## Branding
 
