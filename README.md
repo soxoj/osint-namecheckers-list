@@ -150,6 +150,8 @@ These tools focus on **username availability** and brand/domain squatting checks
 
 - [360username](https://360username.com/) — AI-powered Domain name and sicial media username generator and checker.
 
+- [LurkAPI username checkers](https://lurkapi.com/free-tools/instagram-username-checker) — Instagram and [TikTok](https://lurkapi.com/free-tools/tiktok-username-checker), one name at a time; shows who holds a taken name and variations to try. "Available" means no account uses it, though the platform may still reserve the name. 5 free checks a day without an account; commercial API behind it.
+
 ## Toolkits
 
 - [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername) — Email/username-oriented OSINT toolkit.
