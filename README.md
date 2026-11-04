@@ -129,6 +129,8 @@ Tools you can use without installing anything — web and chat. Many show ads an
 
 - [Opsis](https://useopsis.com/) — Username and email search with 1,000+ modules, showing the name, photo and bio each site exposes, with the source for every result. Free platform lookup tools, full search from $14.99/mo.
 
+- [ProfileTrace](https://www.profiletrace.ai/) — Web app that checks one username across ~4,000 sites. First search free after sign-up, then pay-per-search credit packs from $2 (no subscription); results are leads to verify, not proof of identity.
+
 
 ## Branding
 
