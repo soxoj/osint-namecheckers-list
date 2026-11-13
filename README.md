@@ -107,6 +107,9 @@ A curated list of tools and sites for **username search**, **account discovery**
 
 - [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Username discovery with overlapping source modules reconciled, enriched profile results and evidence graphs; also supports email and phone lookups.
 
+- [Helix](https://github.com/thalha-a9/helix) — Username checker that re-verifies every hit against made-up usernames, then groups accounts that belong together.
+  - ~12,000 sites with `--all` (Sherlock, WhatsMyName and Maigret databases plus ~3,700 Mastodon and other fediverse servers; 56 built in) 👍; **control probe** drops any site that also "finds" fake names 👍; lists sites it could not check instead of counting them as "not found" 👍; HIGH/MEDIUM/LOW identity confidence, a username match alone stays LOW; interactive graph; `pipx install helix-osint`.
+
 ## OSINT online tools
 
 Tools you can use without installing anything — web and chat. Many show ads and may log requests.
@@ -128,6 +131,15 @@ Tools you can use without installing anything — web and chat. Many show ads an
 - [Maigret Telegram bot](https://maigret.app/nc) — 5900 sites from a chat, nothing to install; community bot with extra features; runs the [Maigret](https://github.com/soxoj/maigret) engine.
 
 - [Opsis](https://useopsis.com/) — Username and email search with 1,000+ modules, showing the name, photo and bio each site exposes, with the source for every result. Free platform lookup tools, full search from $14.99/mo.
+
+- [Omertà](https://theosintvault.io/omerta) — Username, email, phone, name and domain lookup that shows where every result came from. Free, no account.
+  - Results split into Confirmed, High Confidence and Partial Signal 👍; blocked or timed-out sources are listed as unresolved, not as negatives 👍; bulk mode (up to 50 queries); optional Wayback Machine pass; PDF/JSON/CSV export.
+
+- [OSINTsearch](https://osintsearch.org/) — Username, email and phone search; 773 endpoints per username scan, with profile details (name, bio, location) in full results.
+  - 5 free scans a day without an account; AI summaries and deep search are paid (from $20/mo).
+
+- [MyRecon](https://www.myrecon.xyz/) — Username search with email breach, domain and IP checks.
+  - Free guest scan covers 100 platforms but shows only the first 2 result cards; 500+ platforms after sign-in, 3,000+ on the paid plan (from $3.99/mo).
 
 
 ## Branding
