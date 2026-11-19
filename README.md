@@ -141,6 +141,7 @@ Tools you can use without installing anything — web and chat. Many show ads an
 - [MyRecon](https://www.myrecon.xyz/) — Username search with email breach, domain and IP checks.
   - Free guest scan covers 100 platforms but shows only the first 2 result cards; 500+ platforms after sign-in, 3,000+ on the paid plan (from $3.99/mo).
 
+- [Reverse Username Search](https://reverseusernamesearch.com/) — Browser-based username checker that distinguishes public profile matches from sites it could not verify.  
 
 ## Branding
 
