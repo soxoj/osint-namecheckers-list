@@ -144,6 +144,7 @@ Tools you can use without installing anything — web and chat. Many show ads an
 - [TraceFind](https://tracefind.info/username) — Username search across about 1,000 sites, showing each profile's name, bio, picture and links; broken site checks are dropped daily. Also email, phone, domain and breach lookups.
   - Email check on 493 sites without notifying the owner 👍; API and MCP server 👍; free preview, full reports paid.
 
+- [Reverse Username Search](https://reverseusernamesearch.com/) — Browser-based username checker that distinguishes public profile matches from sites it could not verify.
 
 ## Branding
 
