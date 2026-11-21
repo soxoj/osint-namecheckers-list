@@ -16,7 +16,7 @@ A curated list of tools and sites for **username search**, **account discovery**
 ## Open source tools
 
 - [Maigret](https://github.com/soxoj/maigret) — Username search with the largest site set and profile parsing.
-  - 5900 sites 👍; profile parsing (PII, links to other profiles) 👍; recursive search on newly found usernames 👍; filter by country/category tags 👍; very few false positives 👍; censorship and captcha detection; `pip install maigret`.
+  - 10,000+ sites as of 0.6.7 👍; profile parsing (PII, links to other profiles) 👍; recursive search on newly found usernames 👍; filter by country/category tags 👍; very few false positives 👍; censorship and captcha detection; `pip install maigret`.
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) — The original username hunter; mature, widely packaged.
   - 479 sites; batch search 👍; Tor and proxy support 👍; CSV/XLSX/JSON export 👍; custom sites and rules; `pipx install sherlock-project`; also Docker, dnf, Homebrew.
