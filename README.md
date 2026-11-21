@@ -141,6 +141,9 @@ Tools you can use without installing anything — web and chat. Many show ads an
 - [MyRecon](https://www.myrecon.xyz/) — Username search with email breach, domain and IP checks.
   - Free guest scan covers 100 platforms but shows only the first 2 result cards; 500+ platforms after sign-in, 3,000+ on the paid plan (from $3.99/mo).
 
+- [TraceFind](https://tracefind.info/username) — Username search across about 1,000 sites, showing each profile's name, bio, picture and links; broken site checks are dropped daily. Also email, phone, domain and breach lookups.
+  - Email check on 493 sites without notifying the owner 👍; API and MCP server 👍; free preview, full reports paid.
+
 
 ## Branding
 
