@@ -16,7 +16,7 @@ A curated list of tools and sites for **username search**, **account discovery**
 ## Open source tools
 
 - [Maigret](https://github.com/soxoj/maigret) — Username search with the largest site set and profile parsing.
-  - 5900 sites 👍; profile parsing (PII, links to other profiles) 👍; recursive search on newly found usernames 👍; filter by country/category tags 👍; very few false positives 👍; censorship and captcha detection; `pip install maigret`.
+  - 10,000+ sites as of 0.6.7 👍; profile parsing (PII, links to other profiles) 👍; recursive search on newly found usernames 👍; filter by country/category tags 👍; very few false positives 👍; censorship and captcha detection; `pip install maigret`.
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) — The original username hunter; mature, widely packaged.
   - 479 sites; batch search 👍; Tor and proxy support 👍; CSV/XLSX/JSON export 👍; custom sites and rules; `pipx install sherlock-project`; also Docker, dnf, Homebrew.
@@ -141,7 +141,10 @@ Tools you can use without installing anything — web and chat. Many show ads an
 - [MyRecon](https://www.myrecon.xyz/) — Username search with email breach, domain and IP checks.
   - Free guest scan covers 100 platforms but shows only the first 2 result cards; 500+ platforms after sign-in, 3,000+ on the paid plan (from $3.99/mo).
 
-- [Reverse Username Search](https://reverseusernamesearch.com/) — Browser-based username checker that distinguishes public profile matches from sites it could not verify.  
+- [TraceFind](https://tracefind.info/username) — Username search across about 1,000 sites, showing each profile's name, bio, picture and links; broken site checks are dropped daily. Also email, phone, domain and breach lookups.
+  - Email check on 493 sites without notifying the owner 👍; API and MCP server 👍; free preview, full reports paid.
+
+- [Reverse Username Search](https://reverseusernamesearch.com/) — Browser-based username checker that distinguishes public profile matches from sites it could not verify.
 
 ## Branding
 
