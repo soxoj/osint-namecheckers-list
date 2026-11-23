@@ -166,6 +166,8 @@ These tools focus on **username availability** and brand/domain squatting checks
 
 - [360username](https://360username.com/) — AI-powered Domain name and sicial media username generator and checker.
 
+- [BrandShield](https://brand-checker.appwrite.network) — Free live RDAP availability across 78 TLDs (with nameserver aftermarket detection), developer handles (GitHub, npm, PyPI, Bluesky) and USPTO trademark conflict search; no login, [open-source CLI](https://github.com/zColdWater/brandshield-cli) 👍.
+
 ## Toolkits
 
 - [One-plus OSINT Toolkit](https://one-plus.github.io/EmailUsername) — Email/username-oriented OSINT toolkit.
