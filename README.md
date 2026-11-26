@@ -145,6 +145,7 @@ Tools you can use without installing anything — web and chat. Many show ads an
   - Email check on 493 sites without notifying the owner 👍; API and MCP server 👍; free preview, full reports paid.
 
 - [Reverse Username Search](https://reverseusernamesearch.com/) — Browser-based username checker that distinguishes public profile matches from sites it could not verify.
+- [Username Searcher](https://usernamesearcher.com/) — Username search across 1,000+ sites, built on the Sherlock and Maigret site lists and limited to site checks that pass a known-account test; marks each result as found, available or unknown. Free, no account.
 
 ## Branding
 
