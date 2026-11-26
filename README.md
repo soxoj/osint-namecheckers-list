@@ -146,6 +146,9 @@ Tools you can use without installing anything — web and chat. Many show ads an
 
 - [Reverse Username Search](https://reverseusernamesearch.com/) — Browser-based username checker that distinguishes public profile matches from sites it could not verify.
 
+- [FreeUsername](https://freeusername.com/) — 3,450+ sites; browser-based username search with results streaming in live, category filters (social, coding, gaming, dating, finance) and a separate checker per platform; free, no sign-up.
+- Quick scan ~1,060 sites in ~30 s, full scan ~3,450 sites in ~2 min 👍; paste a profile URL and it extracts the username 👍; username generator that applies each platform's handle rules before checking 👍; [Android app](https://play.google.com/store/apps/details?id=whatsmyname.app.us) runs searches on-device with profile-detail parsing and JSON/CSV export 👍; AI search is beta; ad-supported; uses the WhatsMyName dataset (CC BY-SA 4.0) alongside its own verified sites — independent, not affiliated with the WhatsMyName project.
+
 ## Branding
 
 These tools focus on **username availability** and brand/domain squatting checks—not on finding a specific person’s accounts. Marketers often use them for brand protection; many include domain checks alongside social handles.
